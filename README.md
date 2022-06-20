@@ -4,7 +4,7 @@
 
 ### Requirements
 
-`Python, Node, git, Postgres`
+`Node, Python, NPM package manager, Postgres`
 
 ### Clone the repository:
 
@@ -84,3 +84,8 @@ npm run start
 ## For Running the Project
 
 - `.gitignore` is placed seperately in backend and frontend folders
+
+
+
+## Credits
+https://github.com/sushil-kamble/django-react-auth
