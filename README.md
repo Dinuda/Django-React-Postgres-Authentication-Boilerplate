@@ -37,6 +37,7 @@ source venv/bin/activate
 
 ### 3. Install required packages
 
+` use pip3 if you are using python3.6 or higher. `
 ```
 pip install -r requirements.txt
 ```
