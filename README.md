@@ -44,14 +44,14 @@ pip install -r requirements.txt
 
 ### 4. Apply Migrations
 ```
-python manage.py makemigrations
-python manage.py migrate
+python3 manage.py makemigrations
+python3 manage.py migrate
 ```
 
 ### 5. Run the server
 
 ```
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 <br>
