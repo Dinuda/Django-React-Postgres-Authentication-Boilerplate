@@ -1,4 +1,4 @@
-# Django React Postgres Authentication Boilerplate
+# Simple Django React Postgres Authentication Boilerplate
 
 ## For Running the Project
 
